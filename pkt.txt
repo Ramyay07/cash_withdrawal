@@ -1,0 +1,19 @@
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Pane width
+Use a value between 17% and 38%
+
+21
+Change width
+Code
+Go to file
+public
+src
+new-file.txt
+project.txt
